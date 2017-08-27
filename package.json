@@ -1,0 +1,19 @@
+{
+  "name": "momojs",
+  "version": "0.0.1",
+  "description": "Set of generators for an MVC based architecture, ideal to generate the base boilerplate code for a new project",
+  "main": "init.js",
+  "dependencies": {
+    "fs-extra": "^4.0.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mustache": "^2.3.0",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "engines": {
+    "node": "7.x.x"
+  }
+}

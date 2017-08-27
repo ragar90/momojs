@@ -1,0 +1,9 @@
+{
+  "name": "YOUR APP NAME HERE",
+  "version": "0.0.1",
+  "description": "YOUR APP DESCRIPTION HERW",
+  "main": "app.js",
+  "engines": {
+    "node": "7.x.x"
+  }
+}
